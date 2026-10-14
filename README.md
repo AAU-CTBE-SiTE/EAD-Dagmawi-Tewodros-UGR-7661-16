@@ -1,4 +1,4 @@
-# JDBC MySQL Connection Demo
+# Lab 1 Java Maven Starter Project
 
 Java Maven project that connects to a local MySQL database (`StudentsDB`) using JDBC and MySQL Connector/J.
 
