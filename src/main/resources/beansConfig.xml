@@ -13,8 +13,8 @@
 
     <bean id="student" class="com.craft.Student">
         <constructor-arg name="id" value="101"/>
-        <constructor-arg name="name" value="John Doe"/>
-        <constructor-arg name="age" value="20"/>
+        <constructor-arg name="name" value="Dagmawi Tewodros"/>
+        <constructor-arg name="age" value="22"/>
         <constructor-arg name="address" ref="address"/> <!-- reference to the address bean -->
     </bean>
 
